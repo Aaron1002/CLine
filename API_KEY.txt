@@ -1,0 +1,2 @@
+OpenRouter_API_KEY = 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
+Gemini_API_KEY = "AIzaSyD2fHgW6bb3DK-qXYNJKEIN3e9OhEpu8bU"
